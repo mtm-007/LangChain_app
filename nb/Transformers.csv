@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the Transformer network architecture based solely on?,a: Recurrent neural networks | b: Convolutional neural networks | c: Attention mechanisms | d: Both a and b,c
+What task did the Transformer model achieve a BLEU score of 28.4 on?,a: Image classification | b: Machine translation from English to German | c: Speech recognition | d: Text summarization,b
+How many days did it take for the Transformer model to achieve a single-model state-of-the-art BLEU score of 41.0 on the English-to-French translation task?,a: 1 day | b: 2 days | c: 3.5 days | d: 5 days,c
+Which person proposed replacing RNNs with self-attention in the Transformer model?,a: Jakob | b: Ashish | c: Noam | d: Niki,a
+Where was the 31st Conference on Neural Information Processing Systems (NIPS 2017) held?,"a: San Francisco | b: New York | c: Long Beach, CA | d: Chicago",c
