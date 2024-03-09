@@ -12,7 +12,7 @@ from langchain_community.callbacks import get_openai_callback
 from langchain_openai import ChatOpenAI
 
 with open('/Users/mtm007/Downloads/LangChain_app/Response.json', 'r') as file:
-    RESPONSE_JSON = json.loads(file)
+    RESPONSE_JSON = json.load(file)
 
 #title for the streamlit app
 st.title(" NLG LangChain Generator APP")
