@@ -11,6 +11,7 @@ from src.llm_generator.NLG_Generator import generate_evaluate_chain
 from langchain_community.callbacks import get_openai_callback
 from langchain_openai import ChatOpenAI
 
+
 with open('/Users/mtm007/Downloads/LangChain_app/Response.json', 'r') as file:
     RESPONSE_JSON = json.load(file)
 
